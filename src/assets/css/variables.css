@@ -1,0 +1,12 @@
+:root{
+    --middle_line_color: #707070;
+    --task_backgruond_color: #1E1E1E;
+    --task_border_color: #707070;
+    --theme_button_hover_color: green;
+}
+
+[data-theme="dark"] {
+    --color-bg: #000000;
+    --theme_button_hover_color: red;
+  }
+  
